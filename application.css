@@ -8,7 +8,9 @@ body{
     color:#424242;
     font-family:'Open Sans';
     background-color: #D6EEFA;
-    background-image: url(http://assets.codecloudapp.com/sites/57d827956e6f644c5f000000/image/png/1473865116000/va_tile.png)
+    background-image: url(http://assets.codecloudapp.com/sites/57d827956e6f644c5f000000/image/png/1473865116000/va_tile.png);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .yield{
