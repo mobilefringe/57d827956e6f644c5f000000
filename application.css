@@ -1255,7 +1255,8 @@ body{
     .feature_row{
         margin-left: -10px;
         margin-right: -10px;
-        margin-bottom: 40px;
+        padding-bottom: 40px;
+        padding-top: 40px;
         &:after{
             clear:both;
             content:" ";
