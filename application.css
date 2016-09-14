@@ -1175,7 +1175,9 @@ body{
         margin:0 auto;
     }
     .main_container{
-        width:940px;
+        width:1040px;
+        padding-left:50px;
+        padding-right:50px;
     }
     .header{
         padding-top:14px;
