@@ -1256,6 +1256,10 @@ body{
         margin-left: -10px;
         margin-right: -10px;
         margin-bottom: 40px;
+        &:after{
+            clear:both;
+            content:" ";
+        }
     }
     .feature_item {
         padding-left: 10px;
